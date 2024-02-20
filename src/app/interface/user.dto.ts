@@ -15,6 +15,11 @@ export interface SignUpUserDto {
   password: string;
 }
 
+export interface LogInUserDto {
+  email: string;
+  password: string;
+}
+
 export interface User {
   id: string;
   firstName: string;

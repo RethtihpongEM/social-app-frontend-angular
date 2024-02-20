@@ -1,1 +1,1 @@
-export {CreateUserDto, User,SignUpUserDto} from './user.dto'
+export {CreateUserDto, User,SignUpUserDto, LogInUserDto} from './user.dto'
